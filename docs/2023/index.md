@@ -1,5 +1,5 @@
 ---
-title: 2023 CHARGED UP
+title: RoboWranglers 2023 Season
 description: Will be released after Season
 ---
 <figure markdown>
