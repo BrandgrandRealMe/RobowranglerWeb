@@ -45,19 +45,8 @@ theme:
     - toc.follow
     - content.code.annotate
   palette:
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+    primary: black
+    accent: red
       
 extra_css:
   - styles/admonitions/pincog.css
@@ -68,12 +57,11 @@ extra_css:
 
 # Repository
 repo_name: BrandgrandRealMe
-repo_url: https://github.com/BrandgrandRealMe
-edit_uri: BrandgrandRealMe.github.io/edit/master/docs/
+repo_url: https://github.com/Team148
 
 
 # Copyright
-copyright: Site Made By Brandgrand Using mkdocs Material
+copyright: Site Made By Brandon
 plugins:
   - search
 markdown_extensions:
