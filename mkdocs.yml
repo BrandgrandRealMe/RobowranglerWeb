@@ -45,6 +45,7 @@ theme:
     - toc.follow
     - content.code.annotate
   palette:
+    scheme: slate
     primary: black
     accent: red
       
@@ -56,7 +57,7 @@ extra_css:
 
 
 # Repository
-repo_name: BrandgrandRealMe
+repo_name: Team148
 repo_url: https://github.com/Team148
 
 

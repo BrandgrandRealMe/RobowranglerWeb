@@ -1,5 +1,5 @@
 ---
-title: RoboWranglers 2023 Season
+title: Robowranglers 2023 Season
 description: Will be released after Season
 ---
 <figure markdown>
