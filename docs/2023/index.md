@@ -1,4 +1,5 @@
 ---
+icon: material/battery-charging
 title: Robowranglers 2023 Season
 description: Will be released after Season
 ---
