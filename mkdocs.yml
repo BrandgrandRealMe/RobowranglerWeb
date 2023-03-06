@@ -1,4 +1,4 @@
-site_name: Docs
+site_name: 148 Robowrangers
 theme:
   name: material
   custom_dir: overrides
@@ -13,7 +13,7 @@ theme:
     code: Roboto Mono
   favicon: ./favicon.svg
   icon:
-    logo: material/library
+    logo: ./favicon.svg
     repo: fontawesome/brands/github
     edit: material/file-edit
     admonition:
