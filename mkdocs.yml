@@ -62,7 +62,7 @@ repo_url: https://github.com/Team148
 
 
 # Copyright
-copyright: Site Made By Brandon
+copyright: © 2022-2023 Robowranglers. All Rights Reserved
 plugins:
   - search
 markdown_extensions:
