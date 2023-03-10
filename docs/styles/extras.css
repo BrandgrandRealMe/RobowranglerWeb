@@ -1,11 +1,4 @@
-.md-typeset .admonition,
-.md-typeset details {
-  border-width: 0;
-  border-left-width: 4px;
-}
-:root {
-  --md-text-font: "futura-pt"; 
-}
+  @import url('https://fonts.cdnfonts.com/css/rockwell-nova');
 /* Futura */
   @font-face {
   font-family:"futura-pt";
@@ -70,3 +63,18 @@
 .tk-futura-pt-condensed { font-family: "futura-pt-condensed",sans-serif; }
 .tk-futura-pt-bold { font-family: "futura-pt-bold",sans-serif; }
   /*-------------------------------------------------*/
+  
+  .md-typeset .admonition,
+  .md-typeset details {
+    border-width: 0;
+    border-left-width: 4px;
+  }
+  :root {
+    --md-text-font: "futura-pt"; 
+  }  
+.md-ellipsis {
+  font-family: 'Rockwell Nova', sans-serif;
+}
+ h1 {
+  font-family: 'Rockwell Nova', sans-serif;
+ }
