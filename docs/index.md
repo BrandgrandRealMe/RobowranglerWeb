@@ -43,3 +43,9 @@ The Robowranglers equip the STEM leaders of tomorrow with the tools they need to
 === "Innovation First International"
     ![IFI](./images/ifi.svg){ align=left width="300" }
     Innovation First International began by producing electronics for autonomous mobile ground robots and is now a leader in educational and competitive robotics products, and a growing developer of consumer robotics toys. Incorporated in 1996, Innovation First International is a privately held corporation that was founded on the belief that innovation is necessary very early in the design process to produce simple and elegant product designs. Innovation First is known for producing the HEXBUGs as well as being the manufacturer and founder of VEX robotics. They also produced the control system used in FRC competitions until 2008. They are our largest sponsor and previously housed our team's practice facilities. In addition to this they also employ many of the Engineers that serve as mentors to the team. Innovation First had previously sponsored the Robowranglers under the name of Rack Solutions.
+
+!!! note "Send us Mail!"
+    Robotics Team
+    Greenville High School
+    3515 Lion's Lair Rd.
+    Greenville, TX 75402
