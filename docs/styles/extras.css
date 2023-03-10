@@ -72,7 +72,7 @@
   :root {
     --md-text-font: "futura-pt"; 
     --md-accent-fg-color: #d7272e;
-    
+    --md-typeset-a-color: #d7272e;
   }  
 .md-ellipsis { 
   font-family: 'Rockwell Nova', sans-serif;
@@ -88,3 +88,23 @@
  h3 {
   font-family: 'Rockwell Nova', sans-serif;
  }
+
+ /* Scroll bar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #111;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #d7272e;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #b32327;
+}
