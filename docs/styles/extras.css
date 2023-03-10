@@ -71,6 +71,7 @@
   }
   :root {
     --md-text-font: "futura-pt"; 
+    --md-accent-fg-color: red;
   }  
 .md-ellipsis {
   font-family: 'Rockwell Nova', sans-serif;
