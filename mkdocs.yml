@@ -9,7 +9,7 @@ theme:
   # Default values, taken from mkdocs_theme.yml
   language: en
   font:
-    text: Jost
+    text: Roboto
     code: Roboto Mono
   favicon: ./images/favicon.svg
   logo: ./images/icon.svg
