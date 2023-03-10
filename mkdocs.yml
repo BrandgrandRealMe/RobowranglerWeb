@@ -14,7 +14,7 @@ theme:
   favicon: ./images/favicon.svg
   logo: ./images/icon.svg
   icon:   
-    repo: ./images/tba.svg
+    repo: brands/tba
     edit: material/file-edit
     admonition:
         note: fontawesome/solid/note-sticky
