@@ -71,14 +71,15 @@
   }
   :root {
     --md-text-font: "futura-pt"; 
-    --md-accent-fg-color: #fff000;
+    --md-accent-fg-color: #d7272e;
   }  
 .md-ellipsis { 
   font-family: 'Rockwell Nova', sans-serif;
-  color: red;
+  color: #d7272e;
 }
  h1 {
   font-family: 'Rockwell Nova', sans-serif;
+  color: #d7272e;
  }
  h2 {
   font-family: 'Rockwell Nova', sans-serif;
