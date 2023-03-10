@@ -12,7 +12,7 @@ theme:
     text: Jost
     code: Roboto Mono
   favicon: ./images/favicon.svg
-  logo: ./images/logo.svg
+  logo: ./images/icon.svg
   icon:   
     repo: fontawesome/brands/github
     edit: material/file-edit
