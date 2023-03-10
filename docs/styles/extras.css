@@ -74,7 +74,14 @@
   }  
 .md-ellipsis {
   font-family: 'Rockwell Nova', sans-serif;
+  color: red;
 }
  h1 {
+  font-family: 'Rockwell Nova', sans-serif;
+ }
+ h2 {
+  font-family: 'Rockwell Nova', sans-serif;
+ }
+ h3 {
   font-family: 'Rockwell Nova', sans-serif;
  }
