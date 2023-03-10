@@ -44,6 +44,7 @@ theme:
     - search.highlight
     - toc.follow
     - content.code.annotate
+    - toc.integrate
   palette:
     scheme: slate
     primary: black
