@@ -9,10 +9,10 @@ theme:
   # Default values, taken from mkdocs_theme.yml
   language: en
   font:
-    text: Roboto
+    text: Jost
     code: Roboto Mono
-  favicon: ./favicon.svg
-  logo: ./favicon.svg
+  favicon: ./images/favicon.svg
+  logo: ./images/logo.svg
   icon:   
     repo: fontawesome/brands/github
     edit: material/file-edit
