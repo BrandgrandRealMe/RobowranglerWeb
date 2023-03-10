@@ -14,7 +14,7 @@ theme:
   favicon: ./images/favicon.svg
   logo: ./images/icon.svg
   icon:   
-    repo: fontawesome/brands/github
+    repo: ./images/tba.svg
     edit: material/file-edit
     admonition:
         note: fontawesome/solid/note-sticky
@@ -57,8 +57,8 @@ extra_css:
 
 
 # Repository
-repo_name: Team148
-repo_url: https://github.com/Team148
+repo_name: 148 On TBA
+repo_url: https://www.thebluealliance.com/team/148
 
 
 # Copyright
