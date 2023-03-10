@@ -1,7 +1,7 @@
 # About the Robowranglers
 The Robowranglers are a team of students and mentors from Greenville, TX that participates in the FIRST Robotics Competition (FRC). The team designs, builds, and programs robots to compete against other teams in the annual competition. The team is known for their innovative designs and successful performance in the competition. The team is a volunteer-based organization, and the students gain valuable skills in areas such as engineering, programming, and teamwork.
 
-#### Robowrangler Pride
+### Robowrangler Pride
 The Robowranglers have been going strong since 1992 and known for their innovative designs and successful performance in the FIRST Robotics Competition (FRC). They are consistently a strong team in the competition and have won numerous awards and accolades over the years.
 Some of their notable achievements include:
 
@@ -10,10 +10,10 @@ Some of their notable achievements include:
 * 2018 Einstein Field (Houston) Championship Winner
 In addition to their competitive success, the team is also known for their commitment to community outreach and STEM education, and for their strong team culture and work ethic.
 
-#### What Our Students Learn
+### What Our Students Learn
 The Robowranglers equip the STEM leaders of tomorrow with the tools they need today. Through their involvement on the team, the students of Greenville, TX are getting lessons for wherever life leads.
 
-##### Robowranglers Learn:
+#### Robowranglers Learn:
 * Solving challenging problems with creative solutions can be a lot of fun.
 * The world needs hard workers who will solve the problems of tomorrow.
 * To celebrate failures as opportunities to learn and improve.
@@ -34,7 +34,7 @@ The Robowranglers equip the STEM leaders of tomorrow with the tools they need to
     Perhaps most importantly, Robowrangler students are given the chance to solve very difficult problems. This competition is sometimes described as “the hardest fun you’ll ever have.”
     When you spend your time solving problems, you spend a lot of time with failure. This is where Robowranglers receive the hardest lessons, and the team can provide its biggest impact.
 
-# Special Thanks To our sponsors!
+### Special Thanks To our sponsors!
 
 === "Greenville Independent School District"
     ![GISD](./images/GISD.svg){ align=left width="150" }
