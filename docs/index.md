@@ -37,9 +37,9 @@ The Robowranglers equip the STEM leaders of tomorrow with the tools they need to
 # Special Thanks To our sponsors!
 
 === "Greenville Independent School District"
-    ![GISD](./images/GISD.svg){ align=left }
+    ![GISD](./images/GISD.svg){ align=left width="300" }
     Greenville ISD, which encompasses the city of Greenville, Texas and a surrounding five to seven-mile radius, is a school district that has something to offer just about everyone. Large enough to offer progressive programs yet small enough to allow teachers the chance to cultivate a personal, active interest in each student, Greenville ISD - home to the World Champion Greenville High School Robotics Team - encourages students to seek enrichment but reaches out to those with unique learning needs. Greenville ISD, in keeping with its mission statement, “Prepares, inspires, and empowers students in a safe and nurturing environment to become responsible citizens who successfully compete in a global society.”
 
 === "Innovation First International"
-    ![IFI](./images/ifi.svg){ align=left }
+    ![IFI](./images/ifi.svg){ align=left; width="300" }
     Innovation First International began by producing electronics for autonomous mobile ground robots and is now a leader in educational and competitive robotics products, and a growing developer of consumer robotics toys. Incorporated in 1996, Innovation First International is a privately held corporation that was founded on the belief that innovation is necessary very early in the design process to produce simple and elegant product designs. Innovation First is known for producing the HEXBUGs as well as being the manufacturer and founder of VEX robotics. They also produced the control system used in FRC competitions until 2008. They are our largest sponsor and previously housed our team's practice facilities. In addition to this they also employ many of the Engineers that serve as mentors to the team. Innovation First had previously sponsored the Robowranglers under the name of Rack Solutions.
