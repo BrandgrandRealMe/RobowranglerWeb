@@ -72,8 +72,26 @@
   :root {
     --md-text-font: "futura-pt"; 
     --md-accent-fg-color: #d7272e;
-    --md-typeset-a-color: #d7272e;
   }  
+a:link {
+  color: #d7272e;
+}
+
+/* visited link */
+a:visited {
+  color: #d7272e;
+}
+
+/* mouse over link */
+a:hover {
+  color: #b32327;
+}
+
+/* selected link */
+a:active {
+  color: #d7272e;
+}
+
 .md-ellipsis { 
   font-family: 'Rockwell Nova', sans-serif;
   color: #d7272e;
