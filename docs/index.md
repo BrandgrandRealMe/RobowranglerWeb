@@ -37,7 +37,7 @@ The Robowranglers equip the STEM leaders of tomorrow with the tools they need to
 ### Special Thanks To our sponsors!
 
 === "Greenville Independent School District"
-    ![GISD](./images/GISD.svg){ align=left; width="250" }
+    ![GISD](./images/GISD.svg){ align=left width="250" }
     Greenville ISD, which encompasses the city of Greenville, Texas and a surrounding five to seven-mile radius, is a school district that has something to offer just about everyone. Large enough to offer progressive programs yet small enough to allow teachers the chance to cultivate a personal, active interest in each student, Greenville ISD - home to the World Champion Greenville High School Robotics Team - encourages students to seek enrichment but reaches out to those with unique learning needs. Greenville ISD, in keeping with its mission statement, “Prepares, inspires, and empowers students in a safe and nurturing environment to become responsible citizens who successfully compete in a global society.”
 
 === "Innovation First International"
