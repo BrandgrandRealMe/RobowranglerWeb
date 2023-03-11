@@ -50,7 +50,6 @@ theme:
     primary: black
       
 extra_css:
-  - styles/admonitions/pincog.css
   - styles/admonitions/links.css
   - styles/admonitions/code.css
   - styles/extras.css
