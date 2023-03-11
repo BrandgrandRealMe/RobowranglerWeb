@@ -1,5 +1,5 @@
 strong {
-  color: #d7272e;
+  color: var(--fg-color);
 }
 
  @import url('https://fonts.cdnfonts.com/css/rockwell-nova');
@@ -75,17 +75,19 @@ strong {
   }
   :root {
     --md-text-font: "futura-pt"; 
+    --fg-color: #d7272e;
+    --fg-color-s: #b32327;
     --md-accent-fg-color: #d7272e;
     --md-typeset-a-color: #d7272e;
   }   
 
 .md-ellipsis { 
   font-family: 'Rockwell Nova', sans-serif;
-  color: #d7272e;
+  color: var(--fg-color);
 }
  h1 {
   font-family: 'Rockwell Nova', sans-serif;
-  color: #d7272e;
+  color: var(--fg-color);
  }
  h2 {
   font-family: 'Rockwell Nova', sans-serif;
@@ -106,10 +108,10 @@ strong {
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #d7272e;
+  background: var(--fg-color);
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #b32327;
+  background: var(--fg-color-s);
 }
