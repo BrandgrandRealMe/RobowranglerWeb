@@ -109,3 +109,6 @@
 ::-webkit-scrollbar-thumb:hover {
   background: #b32327;
 }
+strong {
+  color: #d7272e;
+}
