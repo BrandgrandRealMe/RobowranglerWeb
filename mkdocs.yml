@@ -1,4 +1,4 @@
-site_name: 148 Robowrangers
+site_name: 148 Robowranglers
 theme:
   name: material
   custom_dir: overrides
@@ -45,9 +45,17 @@ theme:
     - toc.follow
     - content.code.annotate
     - toc.integrate
-  palette:
-    scheme: slate
-    primary: black
+  palette:  
+    - scheme: slate
+      toggle:
+        icon: material/led-outline
+        name: Switch to light mode  
+      primary: black
+    - scheme: red
+      toggle:
+        icon: material/led-on 
+        name: Switch to dark mode
+      primary: black
       
 extra_css:
   - styles/admonitions/links.css
@@ -56,7 +64,7 @@ extra_css:
 
 
 # Repository
-repo_name: 148 Robowrangers | TBA
+repo_name: 148 Robowranglers | TBA
 repo_url: https://www.thebluealliance.com/team/148
 
 

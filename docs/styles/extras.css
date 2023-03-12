@@ -125,11 +125,19 @@
   --fg-color-s: #b32327;
   --fg-color: #d7272e;
   --md-accent-fg-color: #d7272e;
-  --md-text-font: "futura-pt";
   --md-typeset-a-color: #d7272e;
+
 }
 
+[data-md-color-scheme="slate"] {
+  /*Miscellaneous*/
+  --md-default-bg-color: #141414;
+  --md-text-font: "futura-pt";
+}
 
+[data-md-color-scheme="red"] {
+  --md-text-font: "roboto";
+}
 
 /* Scroll bar */
 ::-webkit-scrollbar {
@@ -163,17 +171,15 @@ strong {
 .md-ellipsis {
   /*Typography stuff*/
   font-family: 'Rockwell Nova', sans-serif;
-  color: var(--fg-color);
 }
 
 h1 {
   /*Typography stuff*/
   font-family: 'Rockwell Nova', sans-serif;
-  color: var(--fg-color);
 }
 
 h2 {
-/*Typography stuff*/
+  /*Typography stuff*/
   font-family: 'Rockwell Nova', sans-serif;
 }
 
