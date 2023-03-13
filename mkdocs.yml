@@ -35,6 +35,7 @@ theme:
         new: material/new-box
               
   features:
+    - navigation.instant
     - content.tooltips
     - navigation.indexes
     - navigation.sections
