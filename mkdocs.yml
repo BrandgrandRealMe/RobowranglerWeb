@@ -60,6 +60,7 @@ theme:
 extra_css:
   - styles/admonitions/links.css
   - styles/admonitions/code.css
+  - styles/admonitions/reward.css
   - styles/extras.css
 
 
