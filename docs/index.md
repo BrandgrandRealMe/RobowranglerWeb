@@ -69,6 +69,13 @@ The Robowranglers equip the **STEM** leaders of tomorrow with the tools they nee
 
     Innovation First International began by producing electronics for autonomous mobile ground robots and is now a leader in educational and competitive robotics products and a growing developer of consumer robotics toys. Incorporated in 1996, Innovation First International is a privately held corporation that was founded on the belief that innovation is necessary very early in the design process to produce simple and elegant product designs. Innovation First is known for producing HEXBUGs as well as being the manufacturer and founder of VEX robotics. They also produced the control system used in FRC competitions until 2008. They are our largest sponsor and previously housed our team's practice facilities. In addition to this, they also employ many of the Engineers that serve as mentors to the team. Innovation First had previously sponsored Robowranglers under the name Rack Solutions.
 
+=== "L3Harris"
+
+    ![L3](./images/l3b.svg#only-light){ align=left width="200" }
+    ![L3](./images/l3w.svg#only-dark){ align=left width="200" }
+
+    L3Harris Technologies, Inc. is an American technology company, defense contractor, and information technology services provider that produces C6ISR systems and products, wireless equipment, tactical radios, avionics and electronic systems, night vision equipment, and both terrestrial and spaceborne antennas for use in the government, defense, and commercial sectors. They specialize in surveillance solutions, microwave weaponry, and electronic warfare. It was formed from the merger of L3 Technologies (formerly L-3 Communications) and Harris Corporation on June 29, 2019, and was expected to be the sixth-largest defense contractor in the United States.
+
 !!! note "Send us Mail!"
 
     Robotics Team <br>
