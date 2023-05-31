@@ -1,6 +1,6 @@
 
 <figure markdown>
-  ![Charged Up](./images/Robot.svg){ width="300" }
+  ![Charged Up](./images/RobowranglersHoriz.svg){ width="600"}
 </figure>
 # About the Robowranglers
 
