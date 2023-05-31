@@ -1,3 +1,4 @@
 mkdocs-material
 .vscode
 run.bat
+.env
