@@ -1,6 +1,6 @@
 ---
 title: Robowranglers 2023 Season
-description: Will be released after Season
+description: Team 148 was **49-24-0** in official play and **55-30-0** overall in 2023.
 ---
 <figure markdown>
   ![Charged Up](Charged_Up_Light.svg#only-dark){ width="300" }
