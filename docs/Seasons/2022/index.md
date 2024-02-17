@@ -1,6 +1,6 @@
 ---
 title: Robowranglers 2022 Season
-description: Will be released after Season
+description: Team 148 was **60-14-1** in official play and **66-16-1** overall in 2022.
 ---
 <figure markdown>
   ![RapidReact](Rapid_React_Light.svg#only-dark){ width="300" }
