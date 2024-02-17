@@ -24,9 +24,6 @@ As a member of the FIRST In Texas district, Team 148 ranked **10** having earned
 
 Overall, 2023 seemed like a positive year for the Robowranglers based on the available information:
 
-**Win-loss record**: They had a strong win-loss record in official play, going 49-24-0 (with an overall record of 55-30-0), indicating successful performance in most matches.
-Ranking: They finished 10th in the FIRST In Texas district, demonstrating consistent competitiveness.
-Awards: They won the District Event Finalist award, highlighting their achievement in a specific event.
-Robot:
+**Win-loss record**: They had a strong win-loss record in official play, going **49-24-0** (with an overall record of **55-30-0**), indicating successful performance in most matches.
 
-"Blackout" received positive feedback: Their 2023 robot, "Blackout," garnered praise for its design and capabilities.
+**"Blackout"** received positive feedback: Their 2023 robot, "Blackout," garnered praise for its design and capabilities.
