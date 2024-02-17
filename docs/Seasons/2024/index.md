@@ -4,7 +4,7 @@ description: Team 148 was **49-24-0** in official play and **55-30-0** overall i
 ---
 <figure markdown>
   ![Crescendo](Crescendo_Logo_Light.svg#only-dark){ width="300" }
-  ![Crescendo](Crescendo_Logo_dark.svg#only-light){ width="300" }
+  ![Crescendo](Crescendo_Logo_dark.svg#only-red){ width="300" }
   <figcaption>2024 - Crescendo</figcaption>
 </figure>
 
