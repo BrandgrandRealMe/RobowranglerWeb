@@ -13,9 +13,9 @@ description: Will be released after Season
     CHARGED UP, presented by Haas, is an exciting and fast-paced competition that invites two competing alliances to bring energy to their community by retrieving cones and cubes and scoring them in a grid. The game features both autonomous and driver-controlled periods, during which teams can score points by retrieving and scoring game pieces, as well as docking on or engaging with their charge station. Teams will need to strategize and work together in order to emerge as the top alliance in this exciting game.
 
 !!! reward inline end "Awards!"
-  **2023 CURIE DIVISION**
+    **2023 CURIE DIVISION**
   
-     - District Event Finalist
+       - District Event Finalist
 
 Team 148 was **49-24-0** in official play and **55-30-0** overall in 2023.
 
