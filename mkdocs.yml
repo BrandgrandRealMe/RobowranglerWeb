@@ -47,12 +47,14 @@ theme:
     - content.code.annotate
     - toc.integrate
   palette:  
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       toggle:
         icon: material/led-outline
         name: Switch to light mode  
       primary: black
-    - scheme: red
+    - media: "(prefers-color-scheme: light)"
+      scheme: red
       toggle:
         icon: material/led-on 
         name: Switch to dark mode
