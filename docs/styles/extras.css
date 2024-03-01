@@ -136,6 +136,8 @@
 }
 
 [data-md-color-scheme="red"] {
+  
+  --md-default-bg-color: #ffffff;
   --md-text-font: "roboto";
 }
 
