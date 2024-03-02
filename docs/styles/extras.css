@@ -193,6 +193,31 @@ h3 {
 
 .social-icon {
   color: var(--icon-color);
-  width: 5vw;
-  height: 5vw;
+  width: 1vw;
+  height: 1vw;
+}
+
+.social-icons {
+  margin: 0 auto;
+  /* You just need to change the width and height
+  of your div here.
+  The size of the images will adapt automatically.
+  Make sure that the width is 5 times the height
+  for better results.*/
+  width: 640px;
+  height: 128px;
+  position: relative;
+}
+
+
+.social-icons .social-icons-image {
+  display: inline-block;
+  position: absolute;
+  width: 33%;
+  height: auto;
+  z-index: 2;
+  opacity: 1;
+  transition: all .5s;
+  padding: 2%;
+  box-sizing: border-box;
 }
