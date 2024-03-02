@@ -191,6 +191,8 @@ h3 {
   font-family: 'Rockwell Nova', sans-serif;
 }
 
-.social-icons-image {
+.social-icon {
   color: var(--icon-color);
+  width: 5vw;
+  height: 5vw;
 }
