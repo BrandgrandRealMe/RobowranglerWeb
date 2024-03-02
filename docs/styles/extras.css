@@ -136,12 +136,16 @@
   --icon-color: #ffffff;
 }
 
-[data-md-color-scheme="red"] {
-  
+[data-md-color-scheme="red"] {  
   --md-default-bg-color: #ffffff;
   --md-text-font: "roboto";
   --icon-color: #000000;
 }
+[data-md-color-scheme="red"] img[src$="#only-dark"],
+[data-md-color-scheme="red"] img[src$="#gh-dark-mode-only"] {
+  display: none; /* Hide dark images in light mode */
+}
+
 
 /* Scroll bar */
 ::-webkit-scrollbar {
