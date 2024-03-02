@@ -133,12 +133,14 @@
   /*Miscellaneous*/
   --md-default-bg-color: #141414;
   --md-text-font: "futura-pt";
+  --icon-color: #ffffff;
 }
 
 [data-md-color-scheme="red"] {
   
   --md-default-bg-color: #ffffff;
   --md-text-font: "roboto";
+  --icon-color: #000000;
 }
 
 /* Scroll bar */
@@ -187,4 +189,8 @@ h2 {
 
 h3 {
   font-family: 'Rockwell Nova', sans-serif;
+}
+
+.social-icons-image {
+  color: var(--icon-color);
 }

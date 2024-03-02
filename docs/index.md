@@ -3,6 +3,25 @@
   ![Robowranglers!](./images/RobowranglersHoriz.svg){ width="600"}
 </figure>
 <div style="left:0; width:100%; height:100px; position:relative; padding-bottom:0; margin:0 auto"><iframe src="https://www.tickcounter.com/widget/countdown/4962022" style="top:0; left:0; width:100%; height:100%; position:absolute; border:0; overflow:hidden" title="First Comp of 2024"></iframe></div>
+
+<div class="social-icons">
+    <div class="social-icons-image">
+        <a href="https://www.instagram.com/robowranglers/">
+            <img src="/icons/instagram-logo.svg" alt="Instagram Icon">
+        </a>
+    </div>
+    <div class="social-icons-image">
+        <a href="http://www.facebook.com">
+            <img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Facebook Icon">
+        </a>
+    </div>
+    <div class="social-icons-image">
+        <a href="http://www.twitter.com">
+            <img src="http://jonbennallick.co.uk/wp-content/uploads/2012/11/Twitter-Logo-Icon-by-Jon-Bennallick-02-300x300.png" alt="Twitter Icon">
+        </a>
+    </div>
+</div>
+
 # About the Robowranglers
 
 The Robowranglers are a team of students and mentors from **Greenville, TX** that participates in the FIRST Robotics Competition ([FRC](https://www.firstinspires.org/robotics/frc)). The team **designs**, **builds**, and **programs** robots to compete against other teams in the annual competition. The team is known for their innovative designs and successful performance in the competition. The team is a volunteer-based organization, and the students gain valuable skills in areas such as **engineering**, **programming**, and **teamwork**.
