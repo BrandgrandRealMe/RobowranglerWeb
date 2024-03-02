@@ -199,11 +199,10 @@ h3 {
 
 .social-icons {
   display: flex;
-  justify-content: center;
-
+	justify-content: center;
 }
 
 
 .social-icons-image {
-
+  display: flex;
 }
