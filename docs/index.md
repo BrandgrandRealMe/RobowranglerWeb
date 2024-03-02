@@ -7,7 +7,7 @@
 <div class="social-icons">
     <div class="social-icons-image">
         <a href="https://www.instagram.com/robowranglers/">
-            <img src="/icons/instagram-logo.svg" alt="Instagram Icon">
+            <img src="/images/instagram-logo.svg" alt="Instagram Icon">
         </a>
     </div>
     <div class="social-icons-image">
