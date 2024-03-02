@@ -193,8 +193,8 @@ h3 {
 
 .social-icon {
   color: var(--icon-color);
-  width: 1vw;
-  height: 1vw;
+  width: 3vw;
+  height: 3vw;
 }
 
 .social-icons {
@@ -205,4 +205,5 @@ h3 {
 
 .social-icons-image {
   display: flex;
+  padding: 5px;
 }
