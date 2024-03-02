@@ -71,6 +71,22 @@ extra_css:
 repo_name: 148 Robowranglers | TBA
 repo_url: https://www.thebluealliance.com/team/148
 extra: 
+  social:
+    - icon: simple/instagram
+      link: https://www.instagram.com/robowranglers/
+      name: "Insta | @robowranglers"
+    - icon: simple/facebook
+      link: https://www.facebook.com/robowranglers/
+      name: "Facebook | @robowranglers"
+    - icon: simple/youtube
+      link: https://www.youtube.com/robowranglers/
+      name: "YouTube | @robowranglers"
+    - icon: simple/x
+      link: https://x.com/robowranglers/
+      name: "X (Twitter) | @robowranglers"
+    - icon: simple/tiktok
+      link: https://www.tiktok.com/@robowranglers/
+      name: "TikTok | @robowranglers"
   consent:
     title: Cookie consent
     description: >- 
