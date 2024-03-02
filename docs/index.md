@@ -2,7 +2,7 @@
 <figure markdown>
   ![Robowranglers!](./images/RobowranglersHoriz.svg){ width="600"}
 </figure>
-<div style="left:0; width:100%; height:50px; position:relative; padding-bottom:0; margin:0 auto"><iframe src="https://www.tickcounter.com/widget/countdown/4962009" style="top:0; left:0; width:100%; height:100%; position:absolute; border:0; overflow:hidden" title="First Comp of 2024"></iframe></div>
+<div style="left:0; width:100%; height:100px; position:relative; padding-bottom:0; margin:0 auto"><iframe src="https://www.tickcounter.com/widget/countdown/4962022" style="top:0; left:0; width:100%; height:100%; position:absolute; border:0; overflow:hidden" title="First Comp of 2024"></iframe></div>
 # About the Robowranglers
 
 The Robowranglers are a team of students and mentors from **Greenville, TX** that participates in the FIRST Robotics Competition ([FRC](https://www.firstinspires.org/robotics/frc)). The team **designs**, **builds**, and **programs** robots to compete against other teams in the annual competition. The team is known for their innovative designs and successful performance in the competition. The team is a volunteer-based organization, and the students gain valuable skills in areas such as **engineering**, **programming**, and **teamwork**.
