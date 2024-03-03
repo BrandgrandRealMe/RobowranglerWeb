@@ -196,7 +196,7 @@ h3 {
 }
 .social-icon {
   color: var(--icon-color);
-  height: 2vw;
+  height: 5vw;
 }
 .social-icons {
   display: flex;
