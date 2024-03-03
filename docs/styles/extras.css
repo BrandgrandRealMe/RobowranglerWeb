@@ -194,17 +194,24 @@ h2 {
 h3 {
   font-family: 'Rockwell Nova', sans-serif;
 }
-@media screen and (min-width: 780px) {
+
+/* if device has touch screen */
+@media (any-pointer: coarse) {
   .social-icon {
     color: #b32327;
-    width: 10vw;
-    height: 10vw;
+    width: 5vw;
+    height: 5vw;
   }
 }
-.social-icon {
-  color: var(--icon-color);
-  width: 2vw;
-  height: 2vw;
+
+/* if device has no touch screen */
+@media (any-pointer: fine) {
+  .social-icon {
+    color: var(--icon-color);
+    width: 2vw;
+    height: 2vw;
+  }
+  
 }
 
 .social-icons {
