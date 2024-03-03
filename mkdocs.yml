@@ -87,13 +87,19 @@ extra:
     - icon: simple/tiktok
       link: https://www.tiktok.com/@robowranglers/
       name: "TikTok | @robowranglers"
+    - icon: simple/github
+      link: https://github.com/team148/
+      name: "Github | @robowranglers"
+    - icon: brands/tba
+      link: https://www.thebluealliance.com/team/148/
+      name: "TBA | Team 148"
   consent:
     title: Cookie consent
     description: >- 
       We use cookies to recognize your repeated visits and preferences, as well
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for. With your consent, you're helping us to
-      make our documentation better.
+      make our website better.
   analytics:
     provider: google
     property: !ENV GOOGLE_ANALYTICS_KEY
