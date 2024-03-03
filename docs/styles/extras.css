@@ -198,9 +198,13 @@ h3 {
 /* if device has touch screen */
 @media (any-pointer: coarse) {
   .social-icon {
-    color: #b32327;
-    width: 5vw;
-    height: 5vw;
+    color: var(--icon-color);
+    width: 7vw;
+    height: 7vw;
+  }
+  .social-icons-image {
+    display: flex;
+    padding: 0.1vw;
   }
 }
 
@@ -211,7 +215,10 @@ h3 {
     width: 2vw;
     height: 2vw;
   }
-  
+  .social-icons-image {
+    display: flex;
+    padding: 0.5vw;
+  }
 }
 
 .social-icons {
@@ -220,7 +227,4 @@ h3 {
 }
 
 
-.social-icons-image {
-  display: flex;
-  padding: 10px;
-}
+
