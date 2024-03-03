@@ -196,11 +196,11 @@ h3 {
 }
 
 
-@media only screen and (max-width: 768px) {
+@media screen and (min-width: 780px) {
   /* For mobile phones: */
   .social-icon {
     color: var(--icon-color);
-    height: 3vw;
+    height: 5vw;
   }
 }
 .social-icon {
