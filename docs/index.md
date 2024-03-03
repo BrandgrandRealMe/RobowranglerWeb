@@ -39,7 +39,7 @@ description: The Robowranglers are a team of students and mentors from Greenvill
     </div>
     <div class="social-icons-image">
         <a href="https://www.thebluealliance.com/team/148">
-            <svg class="social-icon" fill="currentColor" viewBox="0 0 72 112" xmlns="http://www.w3.org/2000/svg"><line x1="11" x2="11" y1="20" y2="84"/><line  x1="61" x2="61" y1="20" y2="84"/><path  transform="translate(-28 -8)" d="m39 92a25 25 0 0 0 25 25"/><path transform="translate(-28 -8)" d="m89 92a25 25 0 0 1-25 25"/><line x1="36" x2="36" y1="20" y2="109"/><line x1="11" x2="61" y1="81" y2="81"/><line  x1="11" x2="61" y1="53" y2="53"/></svg>
+            <svg class="social-icon" viewBox="0 0 72 112" xmlns="http://www.w3.org/2000/svg"><defs><style>.cls-1{fill:none;stroke:currentColor;stroke-miterlimit:10;stroke-width:6px;}.cls-2{fill:currentColor;}</style></defs><line class="cls-1" x1="11" x2="11" y1="20" y2="84"/><line class="cls-1" x1="61" x2="61" y1="20" y2="84"/><path class="cls-1" transform="translate(-28 -8)" d="m39 92a25 25 0 0 0 25 25"/><path class="cls-1" transform="translate(-28 -8)" d="m89 92a25 25 0 0 1-25 25"/><line class="cls-1" x1="36" x2="36" y1="20" y2="109"/><line class="cls-1" x1="11" x2="61" y1="81" y2="81"/><line class="cls-1" x1="11" x2="61" y1="53" y2="53"/><rect class="cls-2" width="72" height="28" rx="4"/></svg>
         </a>
     </div>
 </div>
