@@ -197,14 +197,14 @@ h3 {
 @media screen and (min-width: 780px) {
   .social-icon {
     color: var(--icon-color);
-    width: 2vw;
-    height: 2vw;
+    width: 5vw;
+    height: 5vw;
   }
 }
 .social-icon {
   color: var(--icon-color);
-  width: 5vw;
-  height: 5vw;
+  width: 2vw;
+  height: 2vw;
 }
 
 .social-icons {
