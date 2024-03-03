@@ -199,7 +199,7 @@ h3 {
 @media screen and (min-width: 780px) {
   /* For mobile phones: */
   .social-icon {
-    color: var(--icon-color);
+    color: #ffffff;
     height: 5vw;
   }
 }
