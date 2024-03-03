@@ -194,18 +194,9 @@ h2 {
 h3 {
   font-family: 'Rockwell Nova', sans-serif;
 }
-
-
-@media screen and (min-width: 780px) {
-  /* For mobile phones: */
-  .social-icon {
-    color: #ffffff;
-    height: 5vw;
-  }
-}
 .social-icon {
   color: var(--icon-color);
-  height: 1vw;
+  height: 2vw;
 }
 .social-icons {
   display: flex;
