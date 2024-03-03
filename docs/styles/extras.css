@@ -200,12 +200,12 @@ h3 {
   /* For mobile phones: */
   .social-icon {
     color: var(--icon-color);
-    width: 3vw;
+    height: 3vw;
   }
 }
 .social-icon {
   color: var(--icon-color);
-  width: 1vw;
+  height: 1vw;
 }
 .social-icons {
   display: flex;
