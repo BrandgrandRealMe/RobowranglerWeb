@@ -126,9 +126,6 @@
   --fg-color: #d7272e;
   --md-accent-fg-color: #d7272e;
   --md-typeset-a-color: #d7272e;
-  --md-primary-fg-color--light: #d7272e;
-  --md-primary-fg-color--dark: #b32327;
-  --md-default-fg-color--lightest: #d7272e;
 }
 
 [data-md-color-scheme="slate"] {
@@ -227,6 +224,9 @@ h3 {
   display: flex;
 	justify-content: center;
 }
-
-
-
+.md-nav__item--active{
+  color: var(--fg-color);
+}
+.md-nav__item:hover{
+  color: var(--fg-color-s);
+}
