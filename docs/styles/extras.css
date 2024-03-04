@@ -126,7 +126,8 @@
   --fg-color: #d7272e;
   --md-accent-fg-color: #d7272e;
   --md-typeset-a-color: #d7272e;
-
+  --md-primary-fg-color--light: #d7272e;
+  --md-primary-fg-color--dark: #b32327;
 }
 
 [data-md-color-scheme="slate"] {
