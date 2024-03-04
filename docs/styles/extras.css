@@ -198,8 +198,8 @@ h3 {
 @media (any-pointer: coarse) {
   .social-icon {
     color: var(--icon-color);
-    width: 7vw;
-    height: 7vw;
+    width: 10vw;
+    height: 10vw;
   }
   .social-icons-image {
     display: flex;
