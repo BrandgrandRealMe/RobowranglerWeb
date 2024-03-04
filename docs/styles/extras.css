@@ -224,9 +224,4 @@ h3 {
   display: flex;
 	justify-content: center;
 }
-.md-nav__link--active{
-  color: var(--fg-color);
-}
-.md-nav__item:hover{
-  color: var(--fg-color-s);
-}
+
