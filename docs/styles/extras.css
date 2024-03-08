@@ -224,3 +224,7 @@ h3 {
   display: flex;
 	justify-content: center;
 }
+.md-button {
+  color: var(--fg-color);
+  border-color: var(--fg-color);
+}
