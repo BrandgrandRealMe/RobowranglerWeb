@@ -15,3 +15,5 @@ description: Team 148 was **49-24-0** in official play and **55-30-0** overall i
 <figure markdown>
   ![Crescendo](Crescendo 4K.PNG){ width="600" }
 </figure>
+
+[Watch the reveal video!](https://youtu.be/npZ0VlJPNRU){ .md-button }
