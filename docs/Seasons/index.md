@@ -4,8 +4,7 @@ hide:
   - path
 ---
 ## 2024
-Robot Name:
-
+Robot Name: [**Outlaw**](https://youtu.be/npZ0VlJPNRU)
 
 ### 2023
 Robot Name: **Blackout**
