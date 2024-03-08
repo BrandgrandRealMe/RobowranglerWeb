@@ -225,3 +225,7 @@ h3 {
 	justify-content: center;
 }
 
+.Banner {
+  height: 100%;
+  background-color: #b32327;
+}
