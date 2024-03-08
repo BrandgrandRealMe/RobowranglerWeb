@@ -1,6 +1,5 @@
 ---
 description: The Robowranglers are a team of students and mentors from Greenville, TX that participates in the FIRST Robotics Competition (FRC) The team designs, builds, and programs robots to compete against other teams in the annual competition. The team is known for their innovative designs and successful performance in the competition.
-image: ./images/RobowranglersHoriz.svg
 ---
 <figure markdown>
   ![Robowranglers!](./images/RobowranglersHoriz.svg){ width="600"}
@@ -116,9 +115,6 @@ The Robowranglers equip the **STEM** leaders of tomorrow with the tools they nee
 !!! note "Send us Mail!"
 
     Robotics Team <br>
-
     Greenville High School <br>
-
     3515 Lion's Lair Rd. <br>
-
     Greenville, TX 75402
