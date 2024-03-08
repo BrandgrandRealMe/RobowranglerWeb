@@ -141,6 +141,9 @@
         {% include "partials/header.html" %}
       {% endblock %}
       <div class="md-container" data-md-component="container">
+        <div class="Banner">
+                    
+        </div>
         {% block hero %}{% endblock %}
         {% block tabs %}
           {% if "navigation.tabs.sticky" not in features %}
@@ -179,9 +182,6 @@
             {% endblock %}
             {% block container %}
               <div class="md-content" data-md-component="content">
-                <div class="Banner">
-                    
-                </div>
                 <article class="md-content__inner md-typeset">
                   {% block content %}
                     {% include "partials/content.html" %}
