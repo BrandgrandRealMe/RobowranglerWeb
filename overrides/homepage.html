@@ -141,9 +141,6 @@
         {% include "partials/header.html" %}
       {% endblock %}
       <div class="md-container" data-md-component="container">
-        <div class="Banner">
-                    
-        </div>
         {% block hero %}{% endblock %}
         {% block tabs %}
           {% if "navigation.tabs.sticky" not in features %}
@@ -152,6 +149,9 @@
             {% endif %}
           {% endif %}
         {% endblock %}
+        <div class="Banner">
+                    
+        </div>
         <main class="md-main" data-md-component="main">
           <div class="md-main__inner md-grid">
             {% block site_nav %}
