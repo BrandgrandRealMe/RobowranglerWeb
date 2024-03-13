@@ -2,8 +2,8 @@
 description: The Robowranglers are a team of students and mentors from Greenville, TX that participates in the FIRST Robotics Competition (FRC) The team designs, builds, and programs robots to compete against other teams in the annual competition. The team is known for their innovative designs and successful performance in the competition.
 ---
 <figure markdown>
-  ![Robowranglers](2024-on-black-only.svg#only-dark){ width="300" }
-  ![Robowranglers](2024 Logo.svg#only-light){ width="300" }
+  ![Robowranglers](images/2024-on-black-only.svg#only-dark){ width="300" }
+  ![Robowranglers](images/2024 Logo.svg#only-light){ width="300" }
 </figure>
 
 <div class="social-icons">
