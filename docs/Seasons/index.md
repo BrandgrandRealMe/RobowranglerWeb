@@ -5,9 +5,8 @@ hide:
 ---
 ## 2024
 Robot Name: [**Outlaw**](https://www.youtube.com/watch?v=npZ0VlJPNRU)
-![Outlaw](./2024/Outlaw.png){ width="600"}
-
-
+![Outlaw](./2024/Outlaw.png){ width="600" align=right}
+<br>
 ### 2023
 Robot Name: **Blackout**
 
