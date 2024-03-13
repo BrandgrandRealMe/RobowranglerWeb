@@ -126,6 +126,7 @@
   --fg-color: #d7272e;
   --md-accent-fg-color: #d7272e;
   --md-typeset-a-color: #d7272e;
+  --md-primary-fg-color: #d7272e;
 }
 
 [data-md-color-scheme="slate"] {
@@ -223,4 +224,8 @@ h3 {
 .social-icons {
   display: flex;
 	justify-content: center;
+}
+.md-button {
+  color: var(--fg-color);
+  border-color: var(--fg-color);
 }
