@@ -4,13 +4,9 @@ hide:
   - path
 ---
 ## 2024
-<<<<<<< HEAD
-Robot Name: **Outlaw**
-![Outlaw](./2024/Outlaw.png){ width="200"}
+Robot Name: [**Outlaw**](https://www.youtube.com/watch?v=npZ0VlJPNRU)
+![Outlaw](./2024/Outlaw.png){ width="600"}
 
-=======
-Robot Name: [**Outlaw**](https://youtu.be/npZ0VlJPNRU)
->>>>>>> 406daa9c6bba03d6449d6de3702bf93bae5351aa
 
 ### 2023
 Robot Name: **Blackout**

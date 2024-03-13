@@ -12,12 +12,7 @@ description: Team 148 was **49-24-0** in official play and **55-30-0** overall i
 
     In CRESCENDO℠ presented by Haas, FIRST© Robotics Competition teams will use their STEM skills and creative power to turn up the volume as they design, build, and program their robots for action-packed game play.
 
-<<<<<<< HEAD
-![Crescendo](Crescendo 4K.PNG){ width="600" }
-=======
 [Watch the reveal video!](https://youtu.be/npZ0VlJPNRU){ .md-button }
 
-<figure markdown>
-  ![Crescendo](Crescendo 4K.PNG){ width="600" }
-</figure>
->>>>>>> 406daa9c6bba03d6449d6de3702bf93bae5351aa
+![Crescendo](Crescendo 4K.PNG){ width="600" }
+
