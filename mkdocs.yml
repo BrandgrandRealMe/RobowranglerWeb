@@ -11,8 +11,8 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: ./images/favicon.svg
-  logo: ./images/icon.svg
+  favicon: ./images/2024 Favicon.svg
+  logo: ./images/2024 Favicon.svg
   icon:   
     repo: brands/tba
     edit: material/file-edit
