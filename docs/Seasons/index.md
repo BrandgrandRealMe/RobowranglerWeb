@@ -4,7 +4,8 @@ hide:
   - path
 ---
 ## 2024
-Robot Name:
+Robot Name: **Outlaw**
+![Outlaw](./2024/Outlaw.png){ width="200"}
 
 
 ### 2023
