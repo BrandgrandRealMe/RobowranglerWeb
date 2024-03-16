@@ -15,5 +15,5 @@ description: Team 148 was **49-24-0** in official play and **55-30-0** overall i
 [Watch the reveal video!](https://youtu.be/npZ0VlJPNRU){ .md-button }
 
 ![Crescendo](Crescendo 4K.PNG){ width="600" }
-![Outlaw](Outlaw.png){ width="600" }
+![Outlaw](OutlawOutline.png){ width="600" }
 
