@@ -24,6 +24,12 @@ As a member of the FIRST In Texas district, Team 148 ranked **2** having earned 
 
 
 ### 2021
+Robot Name: **Revolver**
+
+Team 9889 (148 off-season team) was **19-3-0** during the 2021 offseason.
+Team 148 was **10-9-0** during the 2021 offseason.
+
+### 2021
 Robot Name: **Kolibri**
 
 Team 148 was **9-5-0** during the 2021 offseason.
