@@ -44,7 +44,7 @@ description: The Robowranglers are a team of students and mentors from Greenvill
     </div>
 </div>
 
-<div style="left:0; width:100%; height:100px; position:relative; padding-bottom:0; margin:0 auto"><iframe src="https://www.tickcounter.com/widget/countdown/4962364" style="top:0; left:0; width:100%; height:100%; position:absolute; border:0; overflow:hidden" title="Dallas District Event"></iframe></div>
+<div style="left:0; width:100%; height:100px; position:relative; padding-bottom:0; margin:0 auto"><iframe src="https://www.tickcounter.com/widget/countdown/4962365" style="top:0; left:0; width:100%; height:100%; position:absolute; border:0; overflow:hidden" title="FIT State Champs"></iframe></div>
 
 # About the Robowranglers
 
