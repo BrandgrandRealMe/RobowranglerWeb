@@ -45,7 +45,7 @@ description: The Robowranglers are a team of students and mentors from Greenvill
 </div>
 
 <div style="left:0; width:100%; height:100px; position:relative; padding-bottom:0; margin:0 auto">
-<iframe src="https://www.tickcounter.com/widget/countdown/4962368" style="top:0; left:0; width:100%; height:100%; position:absolute; border:0; overflow:hidden" title="FIRST Championship"></iframe>  
+<iframe src="https://www.tickcounter.com/widget/countdown/4962368" style="top:0; left:0; width:100%; height:100%; position:absolute; border:0; overflow:hidden" title="FIRST Championship"> 
 </iframe></div>
 
 # About the Robowranglers
